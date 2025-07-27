@@ -3,5 +3,6 @@ This project implements a clean Node.js Express API connected to MongoDB with a 
 Quick Start
 
 1. Clone the repo:  
-   $git clone https://github.com/anindyapoddar1/MyProjects.git
-   $cd <repo>
+   $git clone https://github.com/anindyapoddar1/UserDetailsApi.git
+   
+3. $cd UserDetailsApi
