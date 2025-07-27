@@ -4,7 +4,7 @@ const xss = require('xss-clean');
 require('express-async-errors');
 const { param, validationResult } = require('express-validator');
 const { ObjectId } = require('mongodb');
-const AppError = require('./AppError'); // use your custom error class
+const AppError = require('./AppError');
 
 function createServer(db) {
   const app = express();
